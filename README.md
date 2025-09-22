@@ -32,7 +32,16 @@ Building scalable, secure, and high-performance solutions across aviation, logis
 - **Azerbaijani:** Native  
 - **English:** Fluent  
 - **Turkish:** Advanced  
-- **Russian:** Advanced  
+- **Russian:** Advanced
+
+---
+
+## 🎯 Hobbies & Interests
+
+- ♟️ Playing chess (Chess.com ELO 2000+)  
+- 🌍 Improving foreign language skills  
+- 🎹 Playing piano, guitar, and accordion  
+- 🏋️‍♂️ Sports & fitness  
 
 ---
 
