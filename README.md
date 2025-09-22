@@ -1,4 +1,4 @@
-# Hi, I’m Shamo Humbatli 👋
+# Hi, I’m Shamoli 👋
 
 **Senior Full-Stack Software Engineer**  
 Building scalable, secure, and high-performance solutions across aviation, logistics, fintech, and government sectors.
@@ -27,10 +27,19 @@ Building scalable, secure, and high-performance solutions across aviation, logis
 
 ---
 
+## 🌍 Languages
+
+- **Azerbaijani:** Native  
+- **English:** Fluent  
+- **Turkish:** Advanced  
+- **Russian:** Advanced  
+
+---
+
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- Email: your.email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/shamoli)  
+- **Email:** shamohumbatli@gmail.com  
 
 ---
 
