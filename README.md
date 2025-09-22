@@ -1,4 +1,4 @@
-# Hi, I’m Shamoli 👋
+# Hi, I’m Shamo Humbatli 👋
 
 **Senior Full-Stack Software Engineer**  
 Building scalable, secure, and high-performance solutions across aviation, logistics, fintech, and government sectors.
