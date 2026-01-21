@@ -1,7 +1,7 @@
 # Hi, I’m Shamo Humbatli 👋
 
 **Senior Full-Stack Software Engineer**  
-Building scalable, secure, and high-performance solutions across aviation, logistics, fintech, and government sectors.
+Building scalable, secure, and high-performance solutions.
 
 ---
 
@@ -20,7 +20,7 @@ Building scalable, secure, and high-performance solutions across aviation, logis
 ## 💼 Experience Highlights
 
 - Developed ERP & POS solutions, dashboards, and automation modules for small and medium businesses.  
-- Built mission-critical aviation software (TOSS, TOSSM AIXM Data Manager) with secure, scalable architectures.  
+- Built mission-critical aviation software with secure, scalable architectures.  
 - Designed cross-platform mobile and web apps for survey systems, cargo management, and logistics.  
 - Implemented integrations with multiple payment systems and optimized performance for enterprise-grade solutions.  
 - Mentored developers and introduced frameworks to accelerate development and standardize workflows.  
