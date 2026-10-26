@@ -75,7 +75,8 @@ Building scalable, secure, and high-performance solutions.
 ---
 
 ## 📫 Contact
-- **Email:** shamohumbatli@gmail.com  
+- **Email:** shamohumbatli@gmail.com
+- [Hire me on Toptal](https://www.toptal.com/developers/resume/shamo-humbatli#nOJbew)
 
 ---
 
